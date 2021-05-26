@@ -1,0 +1,12 @@
+/Users/fran/Projects/JsonSerializacion/JsonSerializacion/bin/Debug/netcoreapp3.1/JsonSerializacion.deps.json
+/Users/fran/Projects/JsonSerializacion/JsonSerializacion/bin/Debug/netcoreapp3.1/JsonSerializacion.runtimeconfig.json
+/Users/fran/Projects/JsonSerializacion/JsonSerializacion/bin/Debug/netcoreapp3.1/JsonSerializacion.runtimeconfig.dev.json
+/Users/fran/Projects/JsonSerializacion/JsonSerializacion/bin/Debug/netcoreapp3.1/JsonSerializacion.dll
+/Users/fran/Projects/JsonSerializacion/JsonSerializacion/bin/Debug/netcoreapp3.1/JsonSerializacion.pdb
+/Users/fran/Projects/JsonSerializacion/JsonSerializacion/obj/Debug/netcoreapp3.1/JsonSerializacion.csprojAssemblyReference.cache
+/Users/fran/Projects/JsonSerializacion/JsonSerializacion/obj/Debug/netcoreapp3.1/JsonSerializacion.AssemblyInfoInputs.cache
+/Users/fran/Projects/JsonSerializacion/JsonSerializacion/obj/Debug/netcoreapp3.1/JsonSerializacion.AssemblyInfo.cs
+/Users/fran/Projects/JsonSerializacion/JsonSerializacion/obj/Debug/netcoreapp3.1/JsonSerializacion.csproj.CoreCompileInputs.cache
+/Users/fran/Projects/JsonSerializacion/JsonSerializacion/obj/Debug/netcoreapp3.1/JsonSerializacion.dll
+/Users/fran/Projects/JsonSerializacion/JsonSerializacion/obj/Debug/netcoreapp3.1/JsonSerializacion.pdb
+/Users/fran/Projects/JsonSerializacion/JsonSerializacion/obj/Debug/netcoreapp3.1/JsonSerializacion.genruntimeconfig.cache
