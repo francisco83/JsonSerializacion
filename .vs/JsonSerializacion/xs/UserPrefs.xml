@@ -1,0 +1,23 @@
+﻿<Properties StartupConfiguration="{0B50A305-63BD-458D-88E0-2AD306FE4D4E}|Default">
+  <MonoDevelop.Ide.Workbench>
+    <Files>
+      <File FileName="JsonSerializacion/Program.cs" Line="112" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="JsonSerializacion" expanded="True" selected="True">
+            <Node name="JsonSerializacion" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.JsonSerializacion PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
